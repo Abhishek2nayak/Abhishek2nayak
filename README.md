@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek Nayak
 - 👀 I’m interested in finding new solutions..
-- 🌱 I’m currently learning Java& Css
+- 🌱 I’m currently learning  JAVA , PL/SQL other than that HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me = Email : abhishek5nayak22@gmail.com
 
