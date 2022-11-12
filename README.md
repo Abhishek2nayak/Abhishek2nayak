@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Abhishek Nayak
-- 👀 I’m interested in finding new solutions..
-- 🌱 I’m currently learning  JAVA , PL/SQL other than that HTML & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me = Email : abhishek5nayak22@gmail.com
+Hello Devs. 🖐️
 
-<!---
-Abhishek2nayak/Abhishek2nayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    I'm Abhishek Nayak . A stand-alone web developer, who loves  to contribute in 
+    projects  and share thoughts with fun.
+
+
+
+- ▶ I'm currently working on Ecommerce website 
+- 💞️I'm like to contribute open source project based on web technology
+- 💻I'm currently 2nd year in SRKI
+
+
+
